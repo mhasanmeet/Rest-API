@@ -21,8 +21,10 @@
     - [Body Parser](https://github.com/expressjs/body-parser), `npm install body-parser`
 * CORS [CORS MDN Docs](https://developer.mozilla.org/en-US/docs/Web/HTTP/CORS)
 * install CORS `npm i cors`
+* install MongoDB
 
 
 ## Docs
 1. [restapitutorial](https://www.restapitutorial.com/)
 2. [expressjs.com](https://expressjs.com/en/starter/hello-world.html)
+3. [Stack Learner Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCeyQE1bi8dQHaITIT0FbsM)
