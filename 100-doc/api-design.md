@@ -20,20 +20,20 @@
 user model URI design
 
 - For users
-    - https://domain.com/users GET 
-    - https://domain.com/users POST
+    - https://domain.com/api/users GET 
+    - https://domain.com/api/users POST
 
-    - https://domain.com/users/:id GET
-    - https://domain.com/users/:id PUT/PATCH
-    - https://domain.com/users/:id DELETE
+    - https://domain.com/api/users/:id GET
+    - https://domain.com/api/users/:id PUT/PATCH
+    - https://domain.com/api/users/:id DELETE
 
 - For posts
-    - https://domain.com/users/posts GET
-    - https://domain.com/users/posts POST
+    - https://domain.com/api/users/posts GET
+    - https://domain.com/api/users/posts POST
 
-    - https://domain.com/users/posts/:id GET
-    - https://domain.com/users/posts/:id PUT/PATCH
-    - https://domain.com/users/posts/:id DELETE
+    - https://domain.com/api/users/posts/:id GET
+    - https://domain.com/api/users/posts/:id PUT/PATCH
+    - https://domain.com/api/users/posts/:id DELETE
 
 ## Single Data Representation
 
@@ -86,7 +86,6 @@ Multiple single data consists and then make determine data.
         ]
 
 ```
-
 
 ## Finally when we get the data it will be json alike object format
 

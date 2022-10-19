@@ -2,7 +2,7 @@
   "name": "api-project",
   "version": "1.0.0",
   "description": "",
-  "main": "contacts-api.js",
+  "main": "middleware.js",
   "scripts": {
     "start": "nodemon start"
   },
@@ -16,6 +16,6 @@
   "devDependencies": {
     "body-parser": "^1.20.0",
     "morgan": "^1.10.0",
-    "nodemon": "^2.0.19"
+    "nodemon": "^2.0.20"
   }
 }
