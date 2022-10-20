@@ -28,3 +28,7 @@
 1. [restapitutorial](https://www.restapitutorial.com/)
 2. [expressjs.com](https://expressjs.com/en/starter/hello-world.html)
 3. [Stack Learner Tutorial](https://www.youtube.com/playlist?list=PL_XxuZqN0xVCeyQE1bi8dQHaITIT0FbsM)
+
+
+## Status
+unfinished, MongoDB problem
