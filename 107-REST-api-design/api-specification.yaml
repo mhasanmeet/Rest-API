@@ -1,0 +1,33 @@
+openapi: 3.0.0
+
+info: 
+  version: 1.0.0 # required field - my own versioning
+  title: Swagger Tutorial # required field 
+  description: This is a demo specification
+  contact: # not required but must provide
+    name: Mahmudul Hasan
+    url: <https://example.com/contact>
+    email: support@email.com
+  license: # if available
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+
+servers: 
+  - url: https://api.example.com/v1 # production server
+    description: production server
+  - url: https://localhost:4000/v1 # local dev server
+    description: dev server
+
+paths:
+  /products: 
+    get: 
+      tags:
+        - Products
+        
+
+tags: 
+  - products
+
+components: 
+
+ 
